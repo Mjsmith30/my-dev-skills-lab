@@ -1,0 +1,51 @@
+*{
+  box-sizing: border-box;
+} 
+body{
+  
+  grid-template-columns: 50% 50%;
+  font-family: Helvetica;
+  display: grid;
+  
+  margin: 0;
+}
+button {
+    background-color: white; 
+    color:#517342;
+    padding: 15px 32px; 
+    text-align: center;
+    text-decoration: bold;
+    font-size: 20px;
+    border-radius: 20px;
+}
+  .button1 {
+    background-color:#D34D53; 
+    color:black;
+    padding: 15px 32px; 
+    align-content: left;
+    text-decoration: bold ;
+    font-size: 10px;
+    border-radius: 20px;
+    
+}
+
+  h1 {
+    
+ 
+  background-color:#517342;
+  color: antiquewhite;
+}
+  input{
+  block-size: 20px;
+  
+}
+  p{
+  text-align: center;
+
+}
+*
+  body {
+ 
+  grid-template-columns: 50% 50%;
+
+  }
